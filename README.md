@@ -36,10 +36,15 @@ For Feature Selection the Recursive Feature Elimination via Cross-Validation(RFE
 The RFECV approach has been explored for selecting the top 10,20,30,40 and 50 features, and for each of these scenarios the results on the validation set is shown below:
 
 **RFECV 10 Features: Accuracy- 0.93, Precision- 0.93, Recall- 0.93**
+
 **RFECV 20 Features: Accuracy- 0.94, Precision- 0.94, Recall- 0.93**
+
 **RFECV 30 Features: Accuracy- 0.94, Precision- 0.94, Recall- 0.94**
+
 **RFECV 40 Features: Accuracy- 0.94, Precision- 0.94, Recall- 0.94**
+
 **RFECV 50 Features: Accuracy- 0.94, Precision- 0.94, Recall- 0.94**
+
 
 We observe that Feature Selection did not help with improving the model performance as compared to using all the features after MinMaxScaler is applied.
 
