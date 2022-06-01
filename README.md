@@ -1,5 +1,5 @@
 # AryaAI_DataScience_Assignment
-This repository contains the Python3 Jupyter Notebook based solution to the Interview Assignment for Arya.AI Deep Learning Engineer position.
+This repository contains the Python3 Jupyter Notebook named AryaAI_Assignment_DLEngineer.ipynb based solution to the Interview Assignment for Arya.AI Deep Learning Engineer position.
 
 The Jupyter Notebook makes use of the Google Colab environment and the following packages for the implementation-
 
